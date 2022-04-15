@@ -1,0 +1,11 @@
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.csproj.AssemblyReference.cache
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.exe
+C:\Users\Lukas Koch\Desktop\Lotto\Lotto\Lotto\obj\Debug\Lotto.pdb
